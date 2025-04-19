@@ -14,3 +14,6 @@ __pycache__/
 # Ignore system and environment files
 .DS_Store
 .env
+
+# Ignore cleaned_apple_health file
+cleaned-data/cleaned_apple_health.csv
